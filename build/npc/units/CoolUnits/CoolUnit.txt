@@ -1,0 +1,77 @@
+"CoolUnit"
+{
+	"Model"		"Path/To/Model"
+	"ModelScale"		"1"
+	"Level"		"1"
+	"HasInventory"		"1"
+	"SoundSet"		"BountyHunter"
+	"ArmorPhysical"		"1"
+	"MagicalResistance"		"1"
+	"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
+	"AttackRange"		"22"
+	"AttackDamageType"		"DAMAGE_TYPE_PHYSICAL"
+	"AttackDamageMin"		"100"
+	"AttackDamageMax"		"120"
+	"AttackRate"		"100"
+	"BountyGoldMin"		"0"
+	"BountyGoldMax"		"0"
+	"StatusHealth"		"500"
+	"StatusHealthRegen"		"1"
+	"StatusMana"		"200"
+	"StatusManaRegen"		"1"
+	"Ability1"		"ShurikenToss"
+	"BountyXP"		"50"
+	"MovementSpeed"		"225"
+	"MovementCapabilities"		"DOTA_UNIT_CAP_MOVE_GROUND"
+	"ConsideredHero"		"1"
+	"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
+	"AttributeBaseStrength"		"10"
+	"AttributeStrengthGain"		"1"
+	"AttributeBaseIntelligence"		"5"
+	"AttributeIntelligenceGain"		"1"
+	"AttributeBaseAgility"		"5"
+	"AttributeAgilityGain"		"1"
+	"Creature"
+	{
+		"AttachWearables"
+		{
+			"Wearable1"
+			{
+				"ItemDef"		"50"
+			}
+
+			"Wearable2"
+			{
+				"ItemDef"		"51"
+			}
+
+			"Wearable3"
+			{
+				"ItemDef"		"52"
+			}
+
+			"Wearable4"
+			{
+				"ItemDef"		"53"
+			}
+
+			"Wearable5"
+			{
+				"ItemDef"		"54"
+			}
+
+			"Wearable6"
+			{
+				"ItemDef"		"564"
+			}
+
+			"Wearable7"
+			{
+				"ItemDef"		"215"
+			}
+
+		}
+
+	}
+
+}

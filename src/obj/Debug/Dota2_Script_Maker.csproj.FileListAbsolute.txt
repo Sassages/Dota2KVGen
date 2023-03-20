@@ -1,0 +1,15 @@
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.AddNewBlockForm.resources
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.Form1.resources
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.Form2.resources
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.Item_Form.resources
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.Properties.Resources.resources
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.UnitExplorer.resources
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\bin\Debug\Dota2_Script_Maker.exe.config
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\bin\Debug\Dota2_Script_Maker.exe
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\bin\Debug\Dota2_Script_Maker.pdb
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\bin\Debug\ScintillaNET.dll
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.csproj.CopyComplete
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.exe
+C:\Users\Andrew\Desktop\Test\warfare\Dota2_Script_Maker\Dota2_Script_Maker\obj\Debug\Dota2_Script_Maker.pdb

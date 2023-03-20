@@ -1,0 +1,15 @@
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2KVGen.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2_Script_Maker.AddNewBlockForm.resources
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2_Script_Maker.Form1.resources
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2_Script_Maker.Form2.resources
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2_Script_Maker.Item_Form.resources
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2_Script_Maker.Properties.Resources.resources
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2_Script_Maker.UnitExplorer.resources
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2KVGen.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2_Script_Maker.exe
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2_Script_Maker.pdb
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\bin\Debug\Dota2_Script_Maker.exe.config
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\bin\Debug\Dota2_Script_Maker.exe
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\bin\Debug\Dota2_Script_Maker.pdb
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\bin\Debug\ScintillaNET.dll
+C:\Users\Andrew\Desktop\Test\Dota2KVGen\src\obj\Debug\Dota2KVGen.csproj.CopyComplete
